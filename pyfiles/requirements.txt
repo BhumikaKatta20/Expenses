@@ -1,0 +1,18 @@
+pymongo
+python-multipart
+fastapi 
+uvicorn 
+jinja2
+
+# for db_name in client.list_database_names():
+#     print(db_name)
+# def addOneRecord(record):
+
+#     ItemsCol=db.spenton
+#     result=ItemsCol.insert_one(record)
+#     print("Record has been added")
+#     return
+
+# ItemsCol=db.spenton
+# record={'Date': '2024-10-01', 'Category': 'Baby', 'SpentOn': 'baby', 'Amount': 235.0}
+# ItemsCol.insert_one(record)
